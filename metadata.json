@@ -1,0 +1,6 @@
+{
+  "name": "Détection des Défauts des Voies Ferrées",
+  "description": "Projet étudiant d'ingénierie ferroviaire : Sprints Cloud, Edge, Données & IA pour identifier les micro-fissures et défauts de voies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
